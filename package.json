@@ -1,0 +1,13 @@
+{
+    "name": "discordapp",
+    "type": "module",
+    "author": "araschain",
+    "scripts": {
+        "start": "cls && tsx --no-warnings ./src/index.ts"
+    },
+    "dependencies": {
+        "better-sqlite3": "^8.5.0",
+        "discord.js": "^14.12.1",
+        "quick.db": "^9.1.7"
+    }
+}
